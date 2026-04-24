@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Similarity and specialization of the larval versus adult diet of European butterflies and moths",
+  "description": "Dataset on larval host plants and adult nectar sources for Lepidoptera families in Europe. The attached file contains tabular summary values used for metadata practice.",
+  "identifier": "10.5061/dryad.cb6pk",
+  "url": "https://datadryad.org/dataset/doi:10.5061/dryad.cb6pk",
+  "creator": {
+    "@type": "Person",
+    "name": "Florian Altermatt"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Dryad"
+  },
+  "datePublished": "2011",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "keywords": [
+    "Lepidoptera",
+    "butterflies",
+    "moths",
+    "diet specialization",
+    "Dryad"
+  ],
+  "distribution": {
+    "@type": "DataDownload",
+    "encodingFormat": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "contentUrl": "Dryad_Family_data.xlsx"
+  }
+}
