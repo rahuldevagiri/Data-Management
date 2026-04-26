@@ -1,0 +1,5 @@
+rule_id,validation_rule,affected_rows
+R1,transaction_id must be non-null and unique,1
+R2,amount must be numeric and between 0 and 10000,5
+R3,transaction_date must be parseable,4
+R4,"region must be one of EU, US, APAC",0

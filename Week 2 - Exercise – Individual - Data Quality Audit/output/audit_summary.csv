@@ -1,0 +1,6 @@
+dimension,severity,affected_rows,recommended_next_action
+Completeness,High,3,Flag or impute missing values depending on business importance.
+Completeness,Medium,1,Flag or impute missing values depending on business importance.
+Consistency,Low,29,Normalize casing and category labels.
+Uniqueness,High,2,Remove exact duplicates and enforce a primary-key check.
+Validity,High,9,"Standardize formats, coerce invalid values, and review outliers manually."

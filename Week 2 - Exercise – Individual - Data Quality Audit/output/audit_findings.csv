@@ -1,0 +1,45 @@
+affected_row,column,dimension,severity,issue
+4,customer_id,Completeness,High,Missing or blank value
+9,amount,Completeness,High,Missing or blank value
+9,amount,Validity,High,"Invalid amount: non-numeric, non-positive, or extreme"
+21,transaction_date,Validity,High,Invalid or unparsable date
+22,transaction_date,Validity,High,Invalid or unparsable date
+31,amount,Validity,High,"Invalid amount: non-numeric, non-positive, or extreme"
+36,amount,Validity,High,"Invalid amount: non-numeric, non-positive, or extreme"
+41,amount,Validity,High,"Invalid amount: non-numeric, non-positive, or extreme"
+50,transaction_id,Uniqueness,High,Duplicate transaction identifier
+51,transaction_id,Uniqueness,High,Duplicate transaction identifier
+76,customer_id,Completeness,High,Missing or blank value
+91,transaction_date,Validity,High,Invalid or unparsable date
+96,transaction_date,Validity,High,Invalid or unparsable date
+101,amount,Validity,High,"Invalid amount: non-numeric, non-positive, or extreme"
+1,payment_method,Consistency,Low,Inconsistent casing
+3,payment_method,Consistency,Low,Inconsistent casing
+5,payment_method,Consistency,Low,Inconsistent casing
+7,payment_method,Consistency,Low,Inconsistent casing
+13,payment_method,Consistency,Low,Inconsistent casing
+15,payment_method,Consistency,Low,Inconsistent casing
+16,payment_method,Consistency,Low,Inconsistent casing
+18,payment_method,Consistency,Low,Inconsistent casing
+20,payment_method,Consistency,Low,Inconsistent casing
+25,payment_method,Consistency,Low,Inconsistent casing
+26,payment_method,Consistency,Low,Inconsistent casing
+29,payment_method,Consistency,Low,Inconsistent casing
+39,payment_method,Consistency,Low,Inconsistent casing
+41,payment_method,Consistency,Low,Inconsistent casing
+45,payment_method,Consistency,Low,Inconsistent casing
+46,payment_method,Consistency,Low,Inconsistent casing
+54,payment_method,Consistency,Low,Inconsistent casing
+57,payment_method,Consistency,Low,Inconsistent casing
+61,status,Consistency,Low,Inconsistent status formatting
+67,payment_method,Consistency,Low,Inconsistent casing
+72,payment_method,Consistency,Low,Inconsistent casing
+74,payment_method,Consistency,Low,Inconsistent casing
+81,payment_method,Consistency,Low,Inconsistent casing
+83,payment_method,Consistency,Low,Inconsistent casing
+92,payment_method,Consistency,Low,Inconsistent casing
+93,payment_method,Consistency,Low,Inconsistent casing
+96,payment_method,Consistency,Low,Inconsistent casing
+105,payment_method,Consistency,Low,Inconsistent casing
+115,payment_method,Consistency,Low,Inconsistent casing
+71,channel,Completeness,Medium,Missing or blank value
