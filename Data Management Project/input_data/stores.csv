@@ -1,0 +1,53 @@
+Store_ID,Store_Name,Store_City,Store_Location,Store_Open_Date
+1,maven toys guadalajara 1,guadalajara$$$,Residential, 1992-09-18 
+2,NAN@@, MONTERREY ,residential,1995-04-27
+3, Maven Toys Guadalajara 2 ,Guadalajara,Commercial,1999-12-27@@
+4,MAVEN TOYS SALTILLO 1,saltillo,downtown,2000-01-01
+5, MAVEN TOYS LA PAZ 1 ,La Paz,Downtown,2001-05-31
+6,maven toys mexicali 1,mexicali,COMMERCIAL,2003-12-13
+7,MAVEN TOYS MONTERREY 2,MONTERREY,nan,2003-12-25
+8,MAVEN TOYS PACHUCA 1,Pachuca, DOWNTOWN , 2004-10-14 
+9,maven toys ciudad de mexico 1, cuidad de mexico ,DOWNTOWN,2004-10-15
+10,maven toys campeche 1,campeche@@,DOWNTOWN, NAN 
+11,maven toys cuernavaca 1,cuernavaca,DOWNTOWN,2005-04-19
+12,MAVEN TOYS CHETUMAL 1,Chetumal,downtown,2006-05-05
+13,MAVEN TOYS MEXICALI 2,Mexicali,DOWNTOWN,2006-08-30
+14,maven toys guanajuato 1,GUANAJUATO,Downtown, 2007-01-31 
+15,Maven Toys Tuxtla Gutierrez 1,TUXTLA GUTIERREZ, downtown ,2007-03-05
+16, Maven Toys San Luis Potosi 1 ,SAN LUIS POTOSI,DOWNTOWN,2007-05-19
+17,MAVEN TOYS TOLUCA 1,Toluca, Downtown ,2007-12-09
+18, MAVEN TOYS MERIDA 1 ,Merida,DOWNTOWN,2008-08-22
+19,MAVEN TOYS PUEBLA 1,Puebla, commercial ,2008-12-16
+20, Maven Toys Zacatecas 1 ,zacatecas,Downtown,2009-05-29
+21, maven toys santiago 1 ,SANTIAGO, downtown ,2009-11-23
+22,maven toys guanajuato 2$$$, nan ,COMMERCIAL,2010-03-29
+23,Maven Toys Chihuahua 1,chihuahua,Commercial,2010-06-12
+24,maven toys aguascalientes 1,Aguascalientes, nan ,2010-07-31
+25,MAVEN TOYS CIUDAD VICTORIA 1,ciudad victoria,DOWNTOWN,2010-09-08
+26,Maven Toys Campeche 2,CAMPECHE,COMMERCIAL, 2010-09-15 
+27,maven toys oaxaca 1,oaxaca,downtown!!!, 2010-10-02 
+28, MAVEN TOYS PUEBLA 2 ,puebla,downtown,2011-04-01
+29,maven toys xalapa 1,XALAPA, NAN , 2011-06-21 
+30, NAN ,GUADALAJARA,AIRPORT,2011-10-20
+31, maven toys ciudad de mexico 2 ,Cuidad de Mexico, Airport ,2012-05-04
+32,MAVEN TOYS HERMOSILLO 1, HERMOSILLO ,RESIDENTIAL,2012-08-31
+33,Maven Toys Monterrey 3, MONTERREY ,Airport,2013-03-17
+34,maven toys villahermosa 1,VILLAHERMOSA,DOWNTOWN, 2013-06-07 
+35,MAVEN TOYS CHILPANCINGO 1,chilpancingo,downtown,2013-06-11
+36,maven toys morelia 1, MORELIA , DOWNTOWN ,2013-07-01
+37,NAN,cuidad de mexico, Residential ,2013-11-28
+38, MAVEN TOYS CHIHUAHUA 2 ,CHIHUAHUA,downtown,2014-03-18
+-9999,MAVEN TOYS XALAPA 2,xalapa,downtown@@, 2014-04-21 
+40,Maven Toys Toluca 2,Toluca, Commercial , 2014-05-27 
+41,MAVEN TOYS HERMOSILLO 2,Hermosillo, downtown ,2014-06-01
+42,Maven Toys Hermosillo 3,hermosillo,Commercial,2014-06-27
+43,Maven Toys Durango 1,Durango, downtown ,2014-06-30
+44,maven toys puebla 3,Puebla,RESIDENTIAL,2014-12-27
+45,MAVEN TOYS CIUDAD DE MEXICO 4,CUIDAD DE MEXICO, nan ,2015-06-21
+46,Maven Toys Guadalajara 4,GUADALAJARA,DOWNTOWN,2015-10-31
+47,nan, Monterrey , commercial ,2015-11-21
+48, maven toys saltillo 2 ,SALTILLO,COMMERCIAL,2016-03-23
+49,nan,Culiacan,DOWNTOWN,2016-05-10
+50,MAVEN TOYS GUANAJUATO 3,guanajuato,RESIDENTIAL, 2016-05-18 
+14,Maven Toys Guanajuato 1, GUANAJUATO ,Downtown,2007-01-31!!!
+40,maven toys toluca 2,toluca,COMMERCIAL, 2014-05-27 
